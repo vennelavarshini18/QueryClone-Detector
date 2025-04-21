@@ -35,15 +35,15 @@ This Streamlit web application predicts whether two questions from Quora are dup
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/vennelavarshini18/EduEase.git
+   https://github.com/Vedantvijayhumbe/Quora-Duplicate-Question-Pairs-Detector.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd EduEase
+   cd Quora-Duplicate-Question-Pairs-Detector 
    ```
 3. **Create a virtual environment (optional but recommended)**:
    ```bash
-   python -m venv venv
+   python -m venv .venv
    ```
 4. **Activate the virtual environment**:
    - **Windows**:
@@ -65,7 +65,7 @@ After installation, follow these steps to run the project:
 
 1. **Start the application**:
    ```bash
-   streamlit run main.py
+   streamlit run app.py
    ```
 2. Open your browser and go to:
    ```

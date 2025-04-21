@@ -26,6 +26,8 @@ This Streamlit web application predicts whether two questions from Quora are dup
 
 ## 🚀 Getting Started
 
+Would recommend using powershell/windows for streamlit apps . 
+
 ### Prerequisites
 
 - Python 3.7 or higher  

@@ -24,3 +24,4 @@ if st.button('Find'):
     else:
         st.header('Not Duplicate')
 
+st.image("https://miro.medium.com/v2/resize:fit:602/1*eNseZEXViToel_oC_vfSzQ.png", caption="Sunrise by the mountains" , width=300)

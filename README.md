@@ -37,7 +37,7 @@ Would recommend using powershell/windows for streamlit apps .
 
 1. **Clone the repository**:
    ```bash
-   https://github.com/Vedantvijayhumbe/Quora-Duplicate-Question-Pairs-Detector.git
+   https://github.com/vennelavarshini18/Quora-Duplicate-Question-Pairs-Detector.git
    ```
 2. **Navigate to the project directory**:
    ```bash

@@ -40,3 +40,4 @@ with st.sidebar:
 # Footer
 st.markdown("---")
 st.markdown("<p style='text-align: center; font-size: 14px;'>Made using Streamlit | Github</p>", unsafe_allow_html=True)
+st.image("https://miro.medium.com/v2/resize:fit:602/1*eNseZEXViToel_oC_vfSzQ.png", caption="Sunrise by the mountains" , width=300)

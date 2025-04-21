@@ -3,11 +3,8 @@ import helper
 import pickle
 from nltk.corpus import stopwords
 
-# Ensure you've downloaded the stopwords first
 import nltk
 nltk.download('stopwords')
-
-# Save the stopwords list
 with open("stopwords.pkl", "wb") as f:
     pickle.dump(stopwords.words('english'), f)
 

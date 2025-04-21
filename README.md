@@ -45,7 +45,7 @@ Would recommend using powershell/windows for streamlit apps .
    ```
 3. **Create a virtual environment (optional but recommended)**:
    ```bash
-   python -m venv .venv
+   python -m venv venv
    ```
 4. **Activate the virtual environment**:
    - **Windows**:

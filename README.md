@@ -81,30 +81,9 @@ After installation, follow these steps to run the project:
 - *Model*: Logistic Regression trained on preprocessed question pairs  
 - *Evaluation Metric*: Accuracy score on a validation set  
 
-## 🛠 Future Enhancements
-
-1. *Advanced Text Representations*  
-   - Implement Word2Vec or GloVe embeddings  
-   - Use TF-IDF to weigh terms based on importance  
-
-2. *Deep Learning Models*  
-   - Explore Siamese Networks for similarity learning  
-   - Implement LSTM/GRU for sequence modeling  
-
-3. *Enhanced Evaluation Metrics*  
-   - Use Log Loss, Precision, Recall, and F1-Score  
-
-4. *Data Augmentation*  
-   - Use paraphrasing and back-translation  
-
-5. *Deployment Improvements*  
-   - Dockerize the app  
-   - Add CI/CD for automation  
-
 ## 📚 References
 
 - [Quora Question Pairs Dataset on Kaggle](https://www.kaggle.com/datasets/vennela18/quora-question-pairs-train)  
-- [End-to-End NLP Project on Quora Duplicate Questions](https://www.analyticsvidhya.com/blog/2023/04/end-to-end-nlp-project-on-quora-duplicate-questions-pair-identification/)  
 - [Stanford CS224n Report](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2759336.pdf)
 
 ## 🤝 Contributing
